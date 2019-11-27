@@ -1,0 +1,102 @@
+body{
+
+background-color: rgb(103,158,136);
+font-family: 'Amatic SC', cursive;
+}
+h1{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+
+}
+h1 span{
+	font-size: 30px;
+	color: rgb(83,102,74);
+
+}
+h2{
+	text-align: center;
+	background-color: rgb(83,102,74);
+	size: 40px 100px;
+}
+h3{
+	font-size: 45px;
+	font: white;
+
+}
+h3 span{
+	color: white;
+}
+p{
+	color: white;
+	font-size: 20px;
+	
+}
+.főkép{
+	margin-left: auto;
+	margin-right: auto;
+	width: 280px;
+	float: left;
+	border-radius: 100%;
+	margin-right: 20px;
+
+
+}
+article p{
+	margin-left:15px;
+}
+.zene{
+    margin-left: auto;
+	width: 200px;
+	float: left;
+	margin-right: 10px;
+	border-radius: 10px;
+	
+	}
+.rajz{
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 100px;
+	width: 200px;
+	float: left;
+	transform: rotate(270deg);
+	border-radius: 10px;
+}
+
+.modell{
+	margin-left: auto;
+	width: 200px;
+	float: left;
+	position: left;
+	margin-right: 10px;
+	border-radius: 10px;
+	
+}
+.újság{
+	margin-left: auto;
+	margin-right: 10px;
+	width: 200px;
+	float: left;
+	border-radius: 10px;
+	
+}
+.tánc{
+	margin-left: auto;
+	margin-right: 10px;
+	width: 200px;
+	float: left;
+	border-radius: 10px;
+}
+.színjátszás{
+	margin-left: auto;
+	margin-right: 10px;
+	width: 200px;
+	float: left;
+	border-radius: 10px;
+	margin-bottom: 30px;
+}
+p span{
+	font-size: 25px;
+}
+
+
